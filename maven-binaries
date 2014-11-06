@@ -1,0 +1,39 @@
+AANCheckCapacityPlugin.jar niet in maven, sources in P4
+//depot/customerprojects/Enexis WOM/Release Packages/2014 WOM R1/2014-04-29 WOM_R1_2014_FP01/jBoss/server/coord/deploy/AANCheckCapacityPlugin.jar
+
+http://maven2.hq.ismobile.com/libs-release-local/com/ismobile/ajaxfacade/ajaxfacade-war/1.1.65.1/ajaxfacade-war-1.1.65.1.war
+
+http://maven2.hq.ismobile.com/libs-release-local/com/ismobile/customerprojects/enexis/capacity/capacity-war/1.0.16/capacity-war-1.0.16.war
+
+http://maven2.hq.ismobile.com/libs-release-local/com/ismobile/coordsrv/coordsrv-ear/3.28.81.2-full/coordsrv-ear-3.28.81.2-full.ear
+
+cmc-versie 3.4.18 te oud; niet in Maven repo
+ook niet in P4
+wel in maven (nieuwste): http://maven2.hq.ismobile.com/libs-release-local/com/ismobile/cmc/cmc-ear/3.8.4/cmc-ear-3.8.4.ear
+
+http://maven2.hq.ismobile.com/libs-snapshot-local/com/ismobile/customization/enexis/customization-war/1.0.20-SNAPSHOT/customization-war-1.0.20-20140415.084354-2.war
+
+dispreports.war niet in Maven
+ook niet in P4
+
+http://maven2.hq.ismobile.com/libs-release-local/com/ismobile/customerprojects/enexis/teamcap/enexis-teamcap/1.6/enexis-teamcap-1.6.war
+
+http://maven2.hq.ismobile.com/libs-release-local/com/ismobile/mobile/mobile-war/1.1.2.3/mobile-war-1.1.2.3.war
+
+http://maven2.hq.ismobile.com/libs-release-local/com/ismobile/mwa/mwa-war/2.27/mwa-war-2.27.war
+
+planner-ear-1.1.3_jarclean.ear not in maven
+wel in maven: http://maven2.hq.ismobile.com/libs-release-local/com/ismobile/planner/planner-ear/1.1.3/planner-ear-1.1.3.ear
+ook  niet in P4
+
+prdata.war not in maven
+ook niet in P4
+
+http://maven2.hq.ismobile.com/repo/submarine/ears/submarine-11.3.7.4.13-jboss.ear
+
+techreports.war not in maven
+ook niet in P4
+
+http://maven2.hq.ismobile.com/libs-release-local/com/ismobile/tools/tools/1.0.20/tools-1.0.20.war
+
+webcockpit-groupmgm-0.3-jboss.ear not in maven
